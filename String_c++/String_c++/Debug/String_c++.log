@@ -1,0 +1,5 @@
+﻿  String_c++.cpp
+C:\Users\stepanew\source\Projects\String_c++\String_c++\String_c++.cpp(27,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\stepanew\source\Projects\String_c++\String_c++\String_c++.cpp(28,4): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\stepanew\source\Projects\String_c++\String_c++\String_c++.cpp(33,26): warning C4018: >=: несоответствие типов со знаком и без знака
+  String_c++.vcxproj -> C:\Users\stepanew\source\Projects\String_c++\Debug\String_c++.exe
